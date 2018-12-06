@@ -1,0 +1,5 @@
+*  compare-with-experiment.png: shows the comparison of the RDFs between the NN prediction and experimental measurements.
+*  compare-nn-with-MTS_DFT.png: shows the comparison of the RDFs between the NN prediction and ab initio revPBE0-D3 DFT simulations using a multiple time step scheme. The DFT results were obtained from Marsalek O, Markland TE (2017) Quantum Dynamics and Spectroscopy of Ab Initio LiquidWater: The Interplay of Nuclear and Electronic Quantum Effects.J. Phys. Chem. Lett.8:1545.
+
+* goo.gdr/goh.gdr/ghh.gdr: obtained from classical MD simulations at the NVT ensemble using NN potential at 300K and experimental density.
+* pimd-goo.gdr/pimd-goh.gdr/pimd-ghh.gdr: obtained from path-integral MD simulations at the NVT ensemble using NN potential at 300K and experimental density. I used 56 beads.

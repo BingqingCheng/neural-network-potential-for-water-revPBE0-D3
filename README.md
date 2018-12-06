@@ -11,10 +11,10 @@ Bingqing Cheng, Edgar A. Engel, JÖrg Behler, Christoph Dellago and Michele Ceri
 ## Benchmarks
 
 ### Radial distribution functions
-![alt text](https://github.com/BingqingCheng/neural-network-potential-for-water-revPBE0-D3/blob/master/radial-distribution-functions/compare-with-experiment.png  =250x)
+![alt text](https://github.com/BingqingCheng/neural-network-potential-for-water-revPBE0-D3/blob/master/radial-distribution-functions/compare-with-experiment.png =250x)
 
 ### Density isobar
-![alt text](https://github.com/BingqingCheng/neural-network-potential-for-water-revPBE0-D3/blob/master/thermo-properties/density-isobar.png  =250x)
+![alt text](https://github.com/BingqingCheng/neural-network-potential-for-water-revPBE0-D3/blob/master/thermo-properties/density-isobar.png =250x)
 
 
 

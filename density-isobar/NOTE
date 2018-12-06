@@ -1,0 +1,3 @@
+The density isobar is computed using MD/PIMD simulations at 1 bar.
+
+ic/ih/liquid.properties contain the molar volume and potential energy information computed from classical MD simulations under the NPT ensemble at 1 bar. 
